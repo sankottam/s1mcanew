@@ -1,0 +1,6 @@
+Hello good morning
+This is git class
+we are going discuss git commands
+second day
+programming started
+
