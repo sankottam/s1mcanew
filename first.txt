@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello good morning
 sadsadasdadw
 nbxc xcn x
@@ -15,3 +16,6 @@ dwcdwcwdc
 
 
 
+=======
+for testing
+>>>>>>> c6560de (for br1)
